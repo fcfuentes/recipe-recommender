@@ -99,9 +99,9 @@ The following table shows the performance (on the test set) of each model after 
 
 | Model                  | MAE    | RMSE   | Notes                                        |
 |------------------------|--------|--------|----------------------------------------------|
-| Basic NCF              | 0.170  | 0.255  | Fixed hyperparameters, no tuning             |
-| Tuned NCF              | 0.120  | 0.190  | Tuned using 5% sample and retrained          |
-| Hybrid NCF + Content   | 0.117  | 0.186  | Uses recipe/user features + tuned hyperparams|
+| Basic NCF              | 0.168  | 0.255  | Fixed hyperparameters, no tuning             |
+| Tuned NCF              | 0.172  | 0.257  | Tuned using 5% sample and retrained          |
+| Hybrid NCF + Content   | 0.118  | 0.186  | Uses recipe/user features + tuned hyperparams|
 
 
 ## Contact
